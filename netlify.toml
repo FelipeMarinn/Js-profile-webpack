@@ -1,0 +1,4 @@
+## **netlify.toml**
+[build]
+  publish = 'dist'  // ¿cual va a ser la carpeta a publicar?
+  command = 'npm run build'  // ¿cual va a ser la carpeta a publicar?
